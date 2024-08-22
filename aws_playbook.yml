@@ -1,5 +1,5 @@
 ---
-- name: Example playbook
+- name: AWS Infrastructure Management
   hosts: localhost
   roles:
     - role: aws.ec2_auto_scaling.run
